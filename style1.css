@@ -1,0 +1,40 @@
+.upvote{
+    color: green;
+    background-color: aliceblue;
+}
+h1,h3{
+    color: #b92b27;
+}
+#login{
+    background-color: white;
+}
+#singup {
+    background-color: #b92b27;
+    color: white;
+}
+p a {
+    color: purple;
+}
+nav ul li {
+    color: hotpink;
+}
+.post a {
+    color: purple;
+    background-color: yellow;
+}
+.upvote+button{
+    background-color: cornflowerblue;
+}
+p+h3{
+    text-decoration: underline;
+}
+div > input{
+    background-color: darksalmon;
+}
+input[type="text"]
+{
+    color: red;
+}
+input[type="password"]{
+    color: yellow;
+}
